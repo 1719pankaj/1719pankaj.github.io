@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Pankaj Kumar</h1>
 
 
-<h3 align="center">I am a developer, Full-Stack enthusiast, Vue aficionado, Azure ninja, Microservice builder.</h3>
+<h3 align="center">I am a developer, Full-Stack enthusiast, Android aficionado, Azure ninja, UX builder.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1719pankaj&label=Profile%20views&color=0e75b6&style=flat" alt="1719pankaj" /> </p>
 
