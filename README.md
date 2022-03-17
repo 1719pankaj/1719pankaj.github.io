@@ -4,7 +4,7 @@
 
 
 <h3 align="center">I am a developer, Full-Stack enthusiast, Vue aficionado, Azure ninja, Microservice builder.</h3>
-</br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1719pankaj&label=Profile%20views&color=0e75b6&style=flat" alt="1719pankaj" /> </p>
 
 <img align="right" alt="GIF" height="101px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
