@@ -54,5 +54,3 @@
 <a href="https://www.youtube.com/channel/UCanabR4cdk8h-Nq3t1a5esA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xyz" height="30" width="40" /></a>
 <a href="https://discord.gg/TheWiseNerd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xyz" height="30" width="40" /></a>
 </p>
-
-  ![image](https://github.com/soriano-dev/soriano-dev/blob/master/dino.gif)
